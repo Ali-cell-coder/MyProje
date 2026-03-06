@@ -1,2 +1,3 @@
 print("Dümenden entegrasyon")
-print("test")
+print("GitHub ile proje geliştiriyorum")
+print("Backend ve frontend klasörleri eklendi")
